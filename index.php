@@ -1,4 +1,4 @@
 <?php 
-	phpinfo();
+	phpenfo();
 
-eacho "wo";
+echo 10*10*10;
