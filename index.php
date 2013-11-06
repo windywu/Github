@@ -1,4 +1,4 @@
 <?php 
-	phpenfo();
+//	phpenfo();
 
-echo 10*10*10;
+phpinfo;
